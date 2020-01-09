@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ScoutCoder
+
+  Created by Andrea Bruno on 07/01/2020.
+  Copyright © 2020 Andrea Bruno. All rights reserved.
+*/
+
+"KEY_RESUME_LABEL" = "Encoding Key %@ -> %@ (%@)";
+"MORSE_KEY_RESUME_LABEL" = "Morse Code (%@)";
+"NORMAL" = "Normal";
+"INVERTED" = "Inverted";

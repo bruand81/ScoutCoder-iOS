@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   italianAlphabet.plist
+   ScoutCoder
+
+   Created by Andrea Bruno on 07/01/2020.
+   Copyright (c) 2020 Andrea Bruno. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>1</key>
+        <string>A</string>
+        <key>2</key>
+        <string>B</string>
+        <key>3</key>
+        <string>C</string>
+        <key>4</key>
+        <string>D</string>
+        <key>5</key>
+        <string>E</string>
+        <key>6</key>
+        <string>F</string>
+        <key>7</key>
+        <string>G</string>
+        <key>8</key>
+        <string>H</string>
+        <key>9</key>
+        <string>I</string>
+        <key>10</key>
+        <string>L</string>
+        <key>11</key>
+        <string>M</string>
+        <key>12</key>
+        <string>N</string>
+        <key>13</key>
+        <string>O</string>
+        <key>14</key>
+        <string>P</string>
+        <key>15</key>
+        <string>Q</string>
+        <key>16</key>
+        <string>R</string>
+        <key>17</key>
+        <string>S</string>
+        <key>18</key>
+        <string>T</string>
+        <key>19</key>
+        <string>U</string>
+        <key>20</key>
+        <string>V</string>
+        <key>21</key>
+        <string>Z</string>
+    </dict>
+</plist>

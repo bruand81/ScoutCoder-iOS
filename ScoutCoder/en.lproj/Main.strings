@@ -1,0 +1,40 @@
+
+/* Class = "UILabel"; text = "Inverti testo"; ObjectID = "2Ll-uH-YQn"; */
+"2Ll-uH-YQn.text" = "Invert text";
+
+/* Class = "UILabel"; text = "Testo originale"; ObjectID = "5GL-Bl-4vX"; */
+"5GL-Bl-4vX.text" = "Source text";
+
+/* Class = "UILabel"; text = "Destinazione"; ObjectID = "Fb7-p6-3lk"; */
+"Fb7-p6-3lk.text" = "Destination";
+
+/* Class = "UILabel"; text = "Testo codificato"; ObjectID = "MYH-V1-OHC"; */
+"MYH-V1-OHC.text" = "Encoded text";
+
+/* Class = "UITextField"; placeholder = "Testo originale"; ObjectID = "aUM-hU-GiL"; */
+"aUM-hU-GiL.placeholder" = "Original Text";
+
+/* Class = "UIButton"; normalTitle = "A"; ObjectID = "hv5-nb-EMz"; */
+"hv5-nb-EMz.normalTitle" = "A";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "mAK-WZ-ajE"; */
+"mAK-WZ-ajE.normalTitle" = "1";
+
+/* Class = "UILabel"; text = "Originale"; ObjectID = "mJm-NR-iIi"; */
+"mJm-NR-iIi.text" = "Original";
+
+/* Class = "UILabel"; text = "Chiave A -> 1 (Normale)"; ObjectID = "o1Q-4e-5uM"; */
+"o1Q-4e-5uM.text" = "Encoding Key %s -> %s (%s)";
+
+/* Class = "UITextField"; placeholder = "Testo codificato"; ObjectID = "qOY-6z-60j"; */
+"qOY-6z-60j.placeholder" = "Encoded text";
+
+/* Class = "UISegmentedControl"; wyK-L2-Wvl.segmentTitles[0] = "Numerico"; ObjectID = "wyK-L2-Wvl"; */
+"wyK-L2-Wvl.segmentTitles[0]" = "Numeric";
+
+/* Class = "UISegmentedControl"; wyK-L2-Wvl.segmentTitles[1] = "Alfabetico"; ObjectID = "wyK-L2-Wvl"; */
+"wyK-L2-Wvl.segmentTitles[1]" = "Alphabetic";
+
+/* Class = "UISegmentedControl"; wyK-L2-Wvl.segmentTitles[2] = "Morse"; ObjectID = "wyK-L2-Wvl"; */
+"wyK-L2-Wvl.segmentTitles[2]" = "Morse";
+
